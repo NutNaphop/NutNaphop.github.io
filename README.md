@@ -1,6 +1,6 @@
 # NutNaphop's GitHub
 
-<div style="display : flex ; flex-direction : row ; gap : 5px ;">
+<div class='box' style="display : flex ; flex-direction : row ; gap : 5px ;">
     <div style="display : flex ; justify-content : center ; flex : 1 ; align-items : center">
         <p style="font-size : 1.25rem">I'm <b>Naphop Khumchawna</b> you can call me for Nut , 
                 I'm a CS guy in the third year who love to coding interested in Fullstack , 
@@ -28,3 +28,11 @@
 ## Assignment
 
 - [InfoSysSec Glossary ( Firewall )](https://nutnaphop.github.io/firewall)
+
+
+<style>
+        @media (max-width: 768px){
+        .box {
+            flex-direction: column;
+        }
+</style>
