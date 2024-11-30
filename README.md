@@ -27,4 +27,4 @@
 
 ## Assignment
 
-- [InfoSysSec Glossary ( Firewall )](NutNaphop.github.io/firewall)
+- [InfoSysSec Glossary ( Firewall )](https://nutnaphop.github.io/firewall)
