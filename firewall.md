@@ -1,14 +1,19 @@
 # **Firewall**
 
-## CISPP Glossary student guide
+## [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
+Devices that enforce administrative security policies by filtering incoming traffic based on a set of rules.
+| **Source**| **Translate**|
+------------------|-----------------|
+| **Chat GPT** | อุปกรณ์ที่บังคับใช้นโยบายความปลอดภัยทางการบริหารโดยการกรองการรับส่งข้อมูลที่เข้ามาตามชุดของกฎเกณฑ์ |
+| **Gemini** | อุปกรณ์ที่บังคับใช้การรักษาความปลอดภัยของผู้ดูแลระบบโดยการกรองการรับส่งข้อมูลขาเข้าตามชุดกฎ |
 
-| **แหล่งข้อมูล** | **คำอธิบาย** |
-|------------------|---------------|
-| **Chat GPT**     | Firewall คือระบบรักษาความปลอดภัยที่ทำหน้าที่เป็น "กำแพง" หรือ "ตัวกรอง" ระหว่างเครือข่ายภายใน (เช่น คอมพิวเตอร์หรือเครือข่ายส่วนตัว) กับเครือข่ายภายนอก (เช่น อินเทอร์เน็ต) โดยคัดกรองและควบคุมการรับส่งข้อมูลเพื่อป้องกันภัยคุกคาม เช่น แฮกเกอร์หรือมัลแวร์ |
-| **Gemini**       | Firewall เปรียบเสมือนกำแพงป้องกันที่ช่วยปกป้องเครือข่ายจากการโจมตีจากภายนอก เช่น ไวรัส แฮกเกอร์ หรือโปรแกรมที่เป็นอันตราย โดยตรวจสอบและควบคุมการรับส่งข้อมูลระหว่างเครือข่ายของคุณกับอินเทอร์เน็ต |
-| **Gartner**      | Firewall คือโปรแกรมคอมพิวเตอร์หรืออุปกรณ์เครือข่ายที่ควบคุมการเข้าถึงเครือข่ายและตรวจสอบการไหลเวียนของข้อมูล โดยกรองและป้องกันการเข้าถึงที่ไม่พึงประสงค์ รวมถึงการบุกรุกจากภายนอก ซึ่งมีความสำคัญอย่างยิ่งเมื่อเครือข่ายเชื่อมต่อกับอินเทอร์เน็ต |
+## [Gartner Glossary](https://www.gartner.com/en/information-technology/glossary/firewall)
+A firewall is an application or an entire computer (e.g., an Internet gateway server) that controls access to the network and monitors the flow of network traffic. A firewall can screen and keep out unwanted network traffic and ward off outside intrusion into a private network. This is particularly important when a local network connects to the Internet. Firewalls have become critical applications as use of the Internet has increased. 
+| **Source**| **Translate**|
+|------------------|-----------------|
+| **Chat GPT** | ไฟร์วอลล์คือแอปพลิเคชันหรือคอมพิวเตอร์ทั้งระบบ (เช่น เซิร์ฟเวอร์เกตเวย์อินเทอร์เน็ต) ที่ควบคุมการเข้าถึงเครือข่ายและตรวจสอบการไหลของการรับส่งข้อมูลในเครือข่าย ไฟร์วอลล์สามารถคัดกรองและป้องกันการรับส่งข้อมูลที่ไม่ต้องการ รวมถึงป้องกันการบุกรุกจากภายนอกเข้าสู่เครือข่ายส่วนตัว สิ่งนี้มีความสำคัญอย่างยิ่งเมื่อเครือข่ายท้องถิ่นเชื่อมต่อกับอินเทอร์เน็ต ไฟร์วอลล์ได้กลายเป็นแอปพลิเคชันที่สำคัญอย่างยิ่งเมื่อการใช้อินเทอร์เน็ตเพิ่มขึ้น|
+| **Gemini** | ไฟร์วอลล์คือแอปพลิเคชันหรือคอมพิวเตอร์ทั้งหมด (เช่น เซิร์ฟเวอร์เกตเวย์อินเทอร์เน็ต) ที่ควบคุมการเข้าถึงเครือข่ายและตรวจสอบการไหลของการรับส่งข้อมูลเครือข่าย ไฟร์วอลล์สามารถกรองและป้องกันการรับส่งข้อมูลเครือข่ายที่ไม่ต้องการ และป้องกันการบุกรุกจากภายนอกเข้าสู่เครือข่ายส่วนตัว ซึ่งมีความสำคัญอย่างยิ่งเมื่อเครือข่ายท้องถิ่นเชื่อมต่อกับอินเทอร์เน็ต ไฟร์วอลล์ได้กลายเป็นแอปพลิเคชันที่สำคัญเนื่องจากการใช้งานอินเทอร์เน็ตเพิ่มขึ้น |
 
----
 
 ## **สรุป**
 | **หัวข้อ**      | **รายละเอียด** |
@@ -36,8 +41,6 @@
 |------------------|
 | Chat GPT         |
 | Gemini           |
-| [Gartner Glossary](https://www.gartner.com/en/information-technology/glossary/firewall)|
-| [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary) |
 
 --- 
 
