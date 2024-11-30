@@ -19,8 +19,10 @@
 ---
 
 ## About Me
+
 - **Name:** Naphop Khumchawna
 - **Nickname:** Nut
+
 ---
 
 ## Assignment
