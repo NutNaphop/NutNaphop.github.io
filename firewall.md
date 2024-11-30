@@ -1,6 +1,6 @@
 # **Firewall**
 
-## CISPP Glossary**
+## CISPP Glossary student guide
 
 | **แหล่งข้อมูล** | **คำอธิบาย** |
 |------------------|---------------|
@@ -36,7 +36,8 @@
 |------------------|
 | Chat GPT         |
 | Gemini           |
-| Gartner          |
+| [Gartner Glossary](https://www.gartner.com/en/information-technology/glossary/firewall)|
+| [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary) |
 
 --- 
 
