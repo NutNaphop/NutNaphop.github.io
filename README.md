@@ -1,3 +1,11 @@
+<style>
+        @media only screen and (max-width: 768px){
+        .box {
+            flex-direction: column;
+        }
+    }
+</style>
+
 # NutNaphop's GitHub
 
 <div class='box' style="display : flex ; flex-direction : row ; gap : 5px ;">
@@ -28,11 +36,3 @@
 ## Assignment
 
 - [InfoSysSec Glossary ( Firewall )](https://nutnaphop.github.io/firewall)
-
-
-<style>
-        @media only screen and (max-width: "768px"){
-        .box {
-            flex-direction: column;
-        }
-</style>
