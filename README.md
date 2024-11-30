@@ -1,26 +1,18 @@
-<style>
-        @media only screen and (max-width: 768px){
-        .box {
-            flex-direction: column;
-        }
-    }
-</style>
-
 # NutNaphop's GitHub
 
-<div class='box' style="display : flex ; flex-direction : row ; gap : 5px ;">
-    <div style="display : flex ; justify-content : center ; flex : 1 ; align-items : center">
-        <p style="font-size : 1.25rem">I'm <b>Naphop Khumchawna</b> you can call me for Nut , 
-                I'm a CS guy in the third year who love to coding interested in Fullstack , 
-                AI and Security Information
-        </p>
+<div class="box">
+    <div class="text">
+        <p>I'm <b>Naphop Khumchawna</b>, you can call me Nut. 
+        I'm a CS guy in the third year who loves coding, 
+        and I'm interested in Fullstack, AI, and Information Security.</p>
     </div>
-    <div style ="flex : 1">
+    <div class="image">
         <center>
-           <img src="./img/IMG_3789.jpeg" style="width : 50% ; border-radius : 50% ; flex : 1" />
+            <img src="./img/IMG_3789.jpeg" class="profile-img" />
         </center>
     </div>
 </div>
+
 
 <!-- ![Naphop](./img/IMG_3789.jpeg) -->
 
@@ -36,3 +28,29 @@
 ## Assignment
 
 - [InfoSysSec Glossary ( Firewall )](https://nutnaphop.github.io/firewall)
+
+<style>
+    .box {
+        display: flex;
+        flex-direction: row;
+        gap: 5px;
+    }
+    .text {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex: 1;
+    }
+    .image {
+        flex: 1;
+    }
+    .profile-img {
+        width: 50%;
+        border-radius: 50%;
+    }
+    @media only screen and (max-width: 768px) {
+        .box {
+            flex-direction: column;
+        }
+    }
+</style>
