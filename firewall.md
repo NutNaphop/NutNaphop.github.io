@@ -1,7 +1,4 @@
 # **Firewall**
-
-## **คำจำกัดความ**
-
 ### [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
 > Devices that enforce administrative security policies by filtering incoming traffic based on a set of rules.
 
