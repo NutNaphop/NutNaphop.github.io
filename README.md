@@ -16,11 +16,6 @@
 
 - **Name:** Naphop Khumchawna
 - **Nickname:** Nut
-
----
-
-## Social Media
-
 - **Github:** [NutNaphop](https://github.com/NutNaphop)
 
 ---
