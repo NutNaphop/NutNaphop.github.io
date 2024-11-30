@@ -2,7 +2,7 @@
 
 ## **คำจำกัดความ**
 
-### จาก [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
+### [CISSP Glossary - Student Guide](https://www.isc2.org/certifications/cissp/cissp-student-glossary)
 > Devices that enforce administrative security policies by filtering incoming traffic based on a set of rules.
 
 | **Source** | **Translate** |
@@ -11,7 +11,7 @@
 | **Gemini** | อุปกรณ์ที่บังคับใช้การรักษาความปลอดภัยของผู้ดูแลระบบโดยการกรองการรับส่งข้อมูลขาเข้าตามชุดกฎ |
 
 
-### จาก [Gartner Glossary](https://www.gartner.com/en/information-technology/glossary/firewall)
+### [Gartner Glossary](https://www.gartner.com/en/information-technology/glossary/firewall)
 > A firewall is an application or an entire computer (e.g., an Internet gateway server) that controls access to the network and monitors the flow of network traffic. A firewall can screen and keep out unwanted network traffic and ward off outside intrusion into a private network. This is particularly important when a local network connects to the Internet. Firewalls have become critical applications as use of the Internet has increased.
 
 | **Source** | **Translate** |
