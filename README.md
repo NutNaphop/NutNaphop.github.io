@@ -6,7 +6,7 @@
                 I'm a CS guy in the third year who love to coding interested in Fullstack , 
                 AI and Security Information"
         </p>
-        <img src="./img/IMG_3789.jpeg" style="width : 50% ; border-radius : 50% ; flex : 1" />
+        <img src="./img/edit.jpeg" style="width : 50% ; border-radius : 50% ; flex : 1" />
 </div>
 <!-- ![Naphop](./img/IMG_3789.jpeg) -->
 
