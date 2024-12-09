@@ -1,14 +1,7 @@
 # NutNaphop's GitHub
+"I'm <b>Naphop Khumchawna</b> you can call me for Nut , I'm a CS guy in the third year who love to coding interested in Fullstack , AI and Security Information"
 
-<div class='box' style="display : flex ; flex-direction : column ; gap : 5px ; justify-content : center ; align-items : center ; margin-bottom : 10px">
-        <p style="font-size : 1.25rem">
-                "I'm <b>Naphop Khumchawna</b> you can call me for Nut , 
-                I'm a CS guy in the third year who love to coding interested in Fullstack , 
-                AI and Security Information"
-        </p>
-        <img src="./img/edit.jpg" style="width : 50% ; border-radius : 50% ; flex : 1" />
-</div>
-<!-- ![Naphop](./img/IMG_3789.jpeg) -->
+![Naphop](./img/img.png)
 
 ---
 
