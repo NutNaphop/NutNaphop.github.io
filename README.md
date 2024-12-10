@@ -14,4 +14,4 @@
 ---
 ## Assignment
 
-1. [InfoSysSec Glossary ( Firewall )](firewall)
+1. [InfoSysSec Glossary ( Firewall )](firewall.md)
