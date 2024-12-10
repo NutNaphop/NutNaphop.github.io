@@ -1,5 +1,5 @@
 # NutNaphop's GitHub
-"I'm <b>Naphop Khumchawna</b> you can call me for Nut , I'm a CS guy in the third year who love to coding interested in Fullstack , AI and Security Information"
+"I'm **Naphop Khumchawna** you can call me for Nut , I'm a CS guy in the third year who love to coding interested in Fullstack , AI and Security Information"
 
 ![Naphop](./img/img.png)
 
