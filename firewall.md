@@ -42,3 +42,9 @@ Firewall ก็คือ ควบคุมการไหล และ กา�
 ## **สมาชิกกลุ่ม**
 - 6530200100 Naphop Khumchawna
 - [6530200878 Onnicha Srisaman](https://Momojoj.github.io/firewall)
+
+---
+
+◀  [Back to mainpage](README.md)
+
+---
