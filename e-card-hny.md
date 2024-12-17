@@ -11,5 +11,10 @@ Because Im using **Steganography** Tool for encoding
 ---
 
 # Tool 🧰
-- Steganography
+- Steganography 🔒
 
+---
+
+◀  [Back to mainpage](README.md)
+
+---
