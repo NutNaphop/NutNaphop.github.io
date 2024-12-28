@@ -10,6 +10,7 @@
 - **Name:** Naphop Khumchawna
 - **Nickname:** Nut
 - **Github:** [NutNaphop](https://github.com/NutNaphop)
+- **Medium:** [Nut Naphop](https://medium.com/@nutnaphop)
 
 ---
 ## 📃 Assignment 📃
