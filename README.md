@@ -1,7 +1,7 @@
 # 🕶️NutNaphop's GitHub🕶️
 ### [Happy new year 2025 , Click for your card](e-card-hny.md) 🎉🎉🎉
 
-<i>     |  <i>
+Let me run an introduce quick |  MYIMG
 :-------------------------|:-------------------------:
 "I'm **Naphop Khumchawna** you can call me for Nut , I'm a CS guy in the third year who love to coding interested in Fullstack , AI and Security Information" |  ![Naphop](./img/img.png)
 
