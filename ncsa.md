@@ -1,6 +1,6 @@
-# NCSA Boardgame Challenge with Sigma Sigma Boi Group
+# NCSA Boardgame Challenge with Sigma Sigma Boy Group
 **On Securing Human Topic in System Info Security class**
-> ความตระหนักถึงภัยคุกคามทางโลกไซเบอร์ เป็นสิ่งที่สำคัญมาก เพราะเป็นปัจจัยพื้นฐานเรื่องความปลอดภัยของเราบนโลกออนไลน์ และเราสามารถสร้างความตระหนักรู้แบบเบื้องต้นได้โดยการเริ่มทำสิ่งเล็กๆขึ้นมา นั้นก็คือ **"การเล่นบอร์ดเกม"**
+> ความตระหนักถึงภัยคุกคามทางโลกไซเบอร์ เป็นสิ่งที่สำคัญมาก เพราะเป็นปัจจัยพื้นฐานเรื่องความปลอดภัยของเราบนโลกออนไลน์ และเราสามารถสร้างความตระหนักรู้แบบเบื้องต้นได้โดยการเริ่มทำสิ่งเล็กๆขึ้นมา นั่นก็คือ **"การเล่นบอร์ดเกม"**
 
 | NCSA Boardgame           |
 :-------------------------:|
@@ -30,7 +30,7 @@
 [![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared) |
 
 # สมาชิก
-1. Naphop Khumchawna -> [To Github Page](https://nutnaphop.github.io/nsca.md)
+1. Naphop Khumchawna -> [To Github Page](https://nutnaphop.github.io/ncsa.md)
 2. Onnicha Srisaman -> [To Github Page](https://momojoj.github.io)
 3. Thawanrat Phitak -> [To Github Page](https://tongyeh.github.io)
 4. Habibah Masae -> [To Github Page](https://chocokorn.github.io)
