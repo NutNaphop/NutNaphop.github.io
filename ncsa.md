@@ -2,8 +2,8 @@
 **On Securing Human Topic in System Info Security class**
 > ความตระหนักถึงภัยคุกคามทางโลกไซเบอร์ เป็นสิ่งที่สำคัญมาก เพราะเป็นปัจจัยพื้นฐานเรื่องความปลอดภัยของเราบนโลกออนไลน์ และเราสามารถสร้างความตระหนักรู้แบบเบื้องต้นได้โดยการเริ่มทำสิ่งเล็กๆขึ้นมา นั้นก็คือ **"การเล่นบอร์ดเกม"**
 
-NCSA Boardgame         
-:-------------------------:
+NCSA Boardgame             |
+:-------------------------:|
 ![intro.png](img/CyberIMG.jpg)
 
 # เราทำอะไร ?
@@ -25,8 +25,8 @@ NCSA Boardgame
 :-------------------------:|:-------------------------:
 ![intro.png](img/CyberIMG4.jpg) |  ![intro.png](img/CyberIMG5.jpg)
 
-รับชมวิดีโอคลิกที่ภาพ
-:-------------------------:
+รับชมวิดีโอคลิกที่ภาพ         |
+:-------------------------:|
 [![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared)
 
 # สมาชิก
