@@ -4,7 +4,7 @@
 
 | NCSA Boardgame           |
 :-------------------------:|
-![intro.png](img/CyberIMG.jpg)
+![intro.png](img/CyberIMG.jpg) |
 
 # เราทำอะไร ?
 พวกเรากลุ่ม Sigma Sigma Boy นิสิตจากมหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา ขอร่วมเป็นส่วนหนึ่งในการสร้างความตระหนักรู้ ในวันที่ 15 มกราคม พ.ศ. 2568 ได้ทำการดำเนินกิจกรรม **"เล่น Boardgame Cyber จาก NCSA"** เพื่อสร้างความตระหนักรู้บนโลกไซเบอร์ โดยดำเนินกับกลุ่มตัวอย่าง 1 คนเป็นนิสิตชั้นปีที่ 1
@@ -27,7 +27,7 @@
 
 |รับชมวิดีโอคลิกที่ภาพ         |
 :-------------------------:|
-[![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared)
+[![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared) |
 
 # สมาชิก
 1. Naphop Khumchawna -> [To Github Page](https://nutnaphop.github.io/nsca.md)
