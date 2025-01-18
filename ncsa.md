@@ -4,7 +4,7 @@
 
 | NCSA Boardgame           |
 :-------------------------:|
-![intro.png](img/CyberIMG.jpg) |
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202296/CyberIMG_fwi2tu.jpg?_s=public-apps) |
 
 # เราทำอะไร ?
 พวกเรากลุ่ม Sigma Sigma Boy นิสิตจากมหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา ขอร่วมเป็นส่วนหนึ่งในการสร้างความตระหนักรู้ ในวันที่ 15 มกราคม พ.ศ. 2568 ได้ทำการดำเนินกิจกรรม **"เล่น Boardgame Cyber จาก NCSA"** เพื่อสร้างความตระหนักรู้บนโลกไซเบอร์ โดยดำเนินกับกลุ่มตัวอย่าง 1 คนเป็นนิสิตชั้นปีที่ 1
@@ -19,18 +19,18 @@
 
 ภาพบรรยากาศ 1            |  ภาพบรรยากาศ 2
 :-------------------------:|:-------------------------:
-![intro.png](img/CyberIMG2.jpg) |  ![intro.png](img/CyberIMG3.jpg)
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG2_yexwlp.jpg?_s=public-apps) |  ![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG3_r1lifz.jpg?_s=public-apps)
 
 ภาพบรรยากาศ 3            |  ภาพบรรยากาศ 4
 :-------------------------:|:-------------------------:
-![intro.png](img/CyberIMG4.jpg) |  ![intro.png](img/CyberIMG5.jpg)
+![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202295/CyberIMG4_uafhak.jpg?_s=public-apps) |  ![intro.png](https://res.cloudinary.com/dzfeowrkg/image/upload/fl_preserve_transparency/v1737202309/CyberIMG5_h7mzbq.jpg?_s=public-apps)
 
 |รับชมวิดีโอคลิกที่ภาพ         |
 :-------------------------:|
 [![NCSA Challenge](https://img.youtube.com/vi/EG8Q1cCaP7M/maxresdefault.jpg)](https://youtu.be/EG8Q1cCaP7M?feature=shared) |
 
 # สมาชิก
-1. Naphop Khumchawna -> [To Github Page](https://nutnaphop.github.io/ncsa.md)
+1. Naphop Khumchawna -> [To Github Page](ncsa.md)
 2. Onnicha Srisaman -> [To Github Page](https://momojoj.github.io)
 3. Thawanrat Phitak -> [To Github Page](https://tongyeh.github.io)
 4. Habibah Masae -> [To Github Page](https://chocokorn.github.io)
