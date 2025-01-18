@@ -31,10 +31,10 @@
 
 # สมาชิก
 1. Naphop Khumchawna -> [To Github Page](ncsa.md)
-2. Onnicha Srisaman -> [To Github Page](https://momojoj.github.io)
-3. Thawanrat Phitak -> [To Github Page](https://tongyeh.github.io)
-4. Habibah Masae -> [To Github Page](https://chocokorn.github.io)
-5. Boonphitak Phompetch -> [To Github Page](https://mrzcrocodile.github.io)
-6. Petcharat Thongruan -> [To Github Page](https://nibkekie.github.io)
+2. Onnicha Srisaman -> [To Github Page](ncsa.md)
+3. Thawanrat Phitak -> [To Github Page](ncsa.md)
+4. Habibah Masae -> [To Github Page](ncsa.md)
+5. Boonphitak Phompetch -> [To Github Page](ncsa.md)
+6. Petcharat Thongruan -> [To Github Page](ncsa.md)
 
 ◀  [Back to Main Page](README.md)
