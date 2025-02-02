@@ -23,3 +23,4 @@ Let me run an introduce quick |  MYIMG
 3. [Data Quality - Completeness](completeness.md)
 4. [NCSA Boardgame Challenge](boardgame.md)
 5. [Security Control](security-control.md)
+6. [PAO Elections](pao-elections.md)
